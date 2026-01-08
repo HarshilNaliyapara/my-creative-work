@@ -1,7 +1,7 @@
 # 🎨 UI/UX Design Portfolio
 
 Hi 👋  
-I’m **Harshil Naliyapara**, a fresher UI/UX designer focused on creating
+I’m **Harshil Naliyapara**, a UI/UX designer and Video editor focused on creating
 clean, modern, and user-friendly interfaces.
 
 This repository showcases my **UI/UX design work**, including UI screens,
