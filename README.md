@@ -9,7 +9,7 @@ prototypes, and video walkthroughs hosted on Google Drive.
 
 ---
 
-## 🔹 UI/UX Projects
+## 🔹 UI/UX Projects And Video Editing
 A creative design portfolio showcasing UI/UX design, logo design,
 banners, social media creatives, posters, event posters, and video
 editing.
@@ -20,6 +20,10 @@ effective digital content.
 
 **Tools Used:**  
 Figma, Canva, Photoshop, Picsart
+
+**UI/UX Projects:**
+
+👉https://github.com/HarshilNaliyapara/my-creative-work/tree/main/UI-UX-Designs
 
 **🎥 Video Projects :**  
 
