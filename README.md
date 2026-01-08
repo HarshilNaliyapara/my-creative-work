@@ -10,12 +10,13 @@ prototypes, and video walkthroughs hosted on Google Drive.
 ---
 
 ## 🔹 UI/UX Projects
-""A creative design portfolio showcasing UI/UX design, logo design,
+A creative design portfolio showcasing UI/UX design, logo design,
 banners, social media creatives, posters, event posters, and video
 editing.
+
 The work focuses on clean visuals, strong branding, and user-friendly
 design, combining creativity with usability to deliver engaging and
-effective digital content.""
+effective digital content.
 
 **Tools Used:**  
 Figma, Canva, Photoshop, Picsart
