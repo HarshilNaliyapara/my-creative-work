@@ -10,7 +10,6 @@ prototypes, and video walkthroughs hosted on Google Drive.
 ---
 
 ## 🔹 UI/UX Projects
-GitHub: https://github.com/HarshilNaliyapara 
 ""A creative design portfolio showcasing UI/UX design, logo design,
 banners, social media creatives, posters, event posters, and video
 editing.
